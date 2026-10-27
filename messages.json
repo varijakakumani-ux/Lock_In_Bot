@@ -1,0 +1,30 @@
+{
+  "checkin": [
+    "You've got this! Still working?",
+    "Hey, just checking in. Still on task?",
+    "Are you ACTUALLY working right now?",
+    "Hello? Are you working or not?!",
+    "ARE YOU WORKING?!"
+  ],
+  "on_yes": [
+    "That's what I like to see. Keep it up!",
+    "Good. Stay locked in.",
+    "Okay, I believe you... for now 0>0",
+    "Hmm... Prove it with results.",
+    "FINE. NOW KEEP GOING!"
+  ],
+  "on_no": [
+    "No worries, take a breath and get back to it. You can do it!",
+    "Hmm. Close the other tab and get back to work.",
+    "Seriously? Put that phone down and get back to it!",
+    "COME ON, LOCK IN!",
+    "LOCK. IN. NOW. YOUR FUTURE SELF IS WATCHING!"
+  ],
+  "on_ignored": [
+    "No answer? I'll take that as a no... you can do it though!",
+    "Silence? Suspicious. Back to work.",
+    "You ignored me?! Get back to work!",
+    "I SAW THAT. LOCK IN!!",
+    "STOP IGNORING ME AND LOCK IN!!!"
+  ]
+}

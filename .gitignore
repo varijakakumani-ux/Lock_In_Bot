@@ -1,0 +1,5 @@
+.env
+discord.log
+stats.json
+team.json
+__pycache__/
